@@ -1,2 +1,3 @@
 # Fake-News-Detection
+There seems to be increasing issue in recent years that disinformation on social networks is harming communities and institutions of democracy. In turn, steps have been declared by social networking sites to restrict the dissemination of fake news. The widespread of false content has the capacity to have highly negative effects on people and community. Consequently, identification of false information on social media is an evolving science now a days that is drawing great attention.
 In this work, fake news detection is performed using proficient algorithm Random Forest on text based dataset of Kaggle. When it comes to comparison, Random forest yields better outcome.
